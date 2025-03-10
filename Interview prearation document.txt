@@ -1,0 +1,24 @@
+I decided to leave my previous job beacuse I had reached a point where there were limited opportunities for career advancement.
+I am deeply committed to continuous growth and development ,both professionally and personally.While I valued the expernices and skills I gained in my pervious role,I realized that to achieve my long-term career goals,I needed to seek new challenges and responsibilites.
+
+
+
+-------------------------------------------------------------------------
+Tell me about yourself
+Advantages of Selenium
+Five most crtitical scenarious on online shopping
+5 most crtitcal things of atm machine
+when we use waterfall model
+test matrix,test matix example
+stress testing vs performance testing
+white box testing vs black box testing
+boundary value analysis in selenium
+Monkey testing-random tesing
+limitation of selenium
+web based popup in selenium
+priority and severity
+validation of form in selenium
+Locators in Selenium
+single slash and double slash in xpath
+what is sprint in testing
+

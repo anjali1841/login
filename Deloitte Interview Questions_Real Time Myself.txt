@@ -1,0 +1,68 @@
+Manual Testing:
+---------------------------------------------------
+1.Sanity Vs Smoke   --Y
+2.Regression Testing Vs Retesting-- Y
+3.Phases in STLC --Y
+4.Defect Life Cycle --Y
+5.Deferred vs Dulicate --N
+6.Accept and Rejected--N
+7.Severity Vs Priority--Y
+8.Agile Methodolgies--Y
+9.Non-Functional vs Functional Testing--Y
+10.Testing Techniques --N
+11.Testcases Review --N
+12.Test Planning --N
+13.Test Closer  --Y
+-----------------------------------------------------
+Selenium:
+--------------------------------------------------------------------
+14.Selenium-iframes --Y
+15.WindowHandles --Y
+16.BDD Framework  --Y
+17.XPath Difference --Y
+18.Different Types of locators ---Y
+19.Use of Action class --Y
+20.Implicit Wait Vs Explicit Wait Syntax --Y
+21.How to read data from Excel --methods and syntax--Y
+22.Syntax for maximize the window --Y
+23.driver.close vs driver.quit --Y
+
+--------------------------------------------------------------------
+API Testing:
+------------------------
+24.API Different Method:GETvsPOST --Y
+--------------
+GIT
+------------
+25.Git Commands --N
+-------------------------------------------
+CI/CD
+-----------------------
+26.CI/CD -Jenkins --N
+-------------------------------------
+SQL Queries
+---------------------------
+27.SQL -Querys  ---Employee details  --Y
+-------------------------------------------------------------------------
+JAVA
+------------------------------------------------------------------------
+28.List vs Set --N
+29.OOPS Concepts:-Inheritance,Types of Inheritance, --Y
+Polymorphsim-Method Overloading,Method Overriding--Y
+30.Conversion of Integer to String --N
+and String to Integer
+31.Access Modifiers --Y
+32.Java Exceptions-Checked,Unchecked Expections--Y,N
+33.Pre Increment Vs Post Increment --N
+34.While Loop Vs Do While Vs For Loop --Y
+35. Nested Loops --Y
+-----------------------------------------------------------------------------------
+Framework&Behaviour questions
+---------------------------------------------------
+36.Challenges Faced in Automation Framework  --Y
+37.Explain The Project --N
+--------------------------------------------------------------------------------
+Program
+-------------------------
+38.Explain the Java code in the chat --Y
+39.Write the Xpath of <a class=TGHIy>  N
